@@ -2,7 +2,7 @@
 const config = {
   user: 'card-app-vulnerable', // update me
   password: 'password', // update me
-  database: 'card-app-vulnerablem-db',
+  database: 'card-app-vulnerable-db',
   server: 'card-app-vulnerable-serv1.database.windows.net', // update me
   options: {
     encrypt: true,
