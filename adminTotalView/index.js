@@ -1,6 +1,6 @@
 // Create connection to database
 const config = {
-  user: 'card-app-vulnerable', // update me
+  user: 'card-app', // update me
   password: 'password', // update me
   database: 'card-app-vulnerable-db',
   server: 'card-app-vulnerable-serv1.database.windows.net', // update me
