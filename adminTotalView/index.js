@@ -1,13 +1,13 @@
 // Create connection to database
 const config = {
-  user: 'themnem', // update me
-  password: 'demoPass0', // update me
-  database: 'themnem-db',
-  server: 'themnem-serv1.database.windows.net', // update me
+  user: 'card-app-vulnerable', // update me
+  password: 'password', // update me
+  database: 'card-app-vulnerablem-db',
+  server: 'card-app-vulnerable-serv1.database.windows.net', // update me
   options: {
     encrypt: true,
     rowCollectionOnRequestCompletion: true,
-    database: 'themnem-db' //update me
+    database: 'card-app-vulnerable-db' //update me
   }
 }
 // const sql = require('mssql/msnodesqlv8')
